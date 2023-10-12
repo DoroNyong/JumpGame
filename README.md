@@ -1,7 +1,8 @@
 ## 장현교
 
 
-![image](https://github.com/DoroNyong/JumpGame/assets/62960758/e3bb84b4-6a32-48c6-b1e6-f5bcfc0c6e88)
+![image](https://github.com/DoroNyong/JumpGame/assets/62960758/109a9bc9-f173-4c43-aa2c-292eddbd063b)
+
 
 
 점프를 해서 목적지에 도달하는 게임입니다.
